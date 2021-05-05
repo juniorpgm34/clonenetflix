@@ -45,13 +45,15 @@ header nav a:hover{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)), url('/img/capa\ house\ of\ cards.jpg');
 
-    height: 400px;
+    height: 800px;
     background-size: cover;
+    width: 60%;
 
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    margin: auto;
 }
 
 .filme-principal .descricao{
